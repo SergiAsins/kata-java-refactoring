@@ -1,6 +1,7 @@
 package dev.vir.gildedrose;
 
 
+import dev.vir.gildedrose.items.Item;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

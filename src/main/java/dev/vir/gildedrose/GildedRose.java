@@ -1,5 +1,7 @@
 package dev.vir.gildedrose;
 
+import dev.vir.gildedrose.items.Item;
+
 class GildedRose {
     Item[] items;
 
